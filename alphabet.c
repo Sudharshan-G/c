@@ -10,7 +10,7 @@ int main()
  }
  else
  {
-  printf("NOT AN ALPHABET");
+  printf("NO");
  }
  }
  return 0;
