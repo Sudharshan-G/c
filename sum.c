@@ -2,13 +2,13 @@
 int main()
 
 {
-    int i, num, sum = 0;
+    int i, num, sum1 = 0;
     scanf ("%d", &num);
     for (i = 1; i <= num; i++)
     {
-        sum = sum + i;
+        sum1 = sum1 + i;
     }
 
-    printf ("%d",sum);
+    printf ("%d",sum1);
     return 0;
 }
