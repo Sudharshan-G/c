@@ -5,7 +5,8 @@ int n, i,factorial = 1;
 scanf("%d",&n);
 if (n < 0)
 {
-printf(" ");
+return;
+}
 else
 {
 for(i=1; i<=n; ++i)
@@ -14,6 +15,6 @@ for(i=1; i<=n; ++i)
  }
  printf("%d",factorial);
 }
-}
+
 return 0;
 }
