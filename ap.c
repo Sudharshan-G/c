@@ -23,5 +23,5 @@ int main()
     printf("\n  %d\n",  sum);
 
     getch();
- return 0;
+    return 0;
 }
