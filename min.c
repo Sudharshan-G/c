@@ -1,4 +1,4 @@
-Min
+
 #include<stdio.h>
 int main()
 {
